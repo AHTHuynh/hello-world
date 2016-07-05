@@ -1,2 +1,3 @@
 # hello-world
-testing and haing fun
+testing and having fun.
+this is a readme file.
